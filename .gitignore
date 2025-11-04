@@ -19,5 +19,6 @@ output/
 
 # 5. 大型数据 (示例)
 *.csv
+!example.csv
 *.xlsx
 *.dat 
