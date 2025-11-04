@@ -1,0 +1,23 @@
+# 1. 虚拟环境 (隔离沙盒)
+venv/
+env/
+*.venv
+
+# 2. Python 缓存
+__pycache__/
+*.pyc
+
+# 3. IDE/编辑器配置
+.vscode/
+.idea/
+
+# 4. 输出结果 (绘图、报告等)
+output/
+*.png
+*.jpg
+*.pdf
+
+# 5. 大型数据 (示例)
+*.csv
+*.xlsx
+*.dat 
